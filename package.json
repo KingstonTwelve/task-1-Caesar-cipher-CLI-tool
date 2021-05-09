@@ -1,0 +1,24 @@
+{
+  "name": "task-1-caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingstonTwelve/task-1-Caesar-cipher-CLI-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingstonTwelve/task-1-Caesar-cipher-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/KingstonTwelve/task-1-Caesar-cipher-CLI-tool#readme"
+}
